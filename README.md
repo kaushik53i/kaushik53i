@@ -1,16 +1,40 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Kaushik Bhowmick</h1>
+<h3 align="center">🚀 Full Stack Web Developer | Passionate Coder</h3>
 
-<!--
-**kaushik53i/kaushik53i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning: React & Backend Development  
+💻 Love building real-world projects  
+🎯 Goal: Become a top Full Stack Developer  
+
+---
+
+## 🚀 Tech Stack
+💻 HTML | CSS | JavaScript  
+⚛️ React (Learning)  
+🗄️ SQL  
+🧠 DSA in C++  
+
+---
+
+## 🔥 Featured Projects
+🚆 Train Ticket Booking System  
+🎓 Student Management System  
+🌐 Portfolio Website  
+
+---
+
+## 📊 GitHub Stats
+![Kaushik's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaushik53i&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔗 Connect With Me
+- 💼 LinkedIn: www.linkedin.com/in/kaushik-bhowmick-ba841a323
+- 🌐 Portfolio: https://kaushikb-portfolio.netlify.app/
+
+---
+
+⭐ From [kaushik53i](https://github.com/kaushik53i)
